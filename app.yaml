@@ -3,4 +3,4 @@ api_version: 1
 
 handlers:
 - url: /.*
-  script: phpinfo.php
+  script: opensite.php
